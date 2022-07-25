@@ -1,6 +1,6 @@
 [submodule "epicroad-30-front"]
 	path = epicroad-30-front
-	url = git@gitlab.com:t-web-8003/epicroad-30-front.git
+	url = git@github.com:Sandra-I/EpicRoad-30-Front-Epitech.git
 [submodule "epicroad-30-back"]
 	path = epicroad-30-back
-	url = git@gitlab.com:t-web-8003/epicroad-30-back.git
+	url = git@github.com:Sandra-I/EpicRoad-30-Back-Epitech.git
